@@ -1,4 +1,4 @@
-# [Business Intelligence 7](https://github.com/trannhatnguyen2/BusinessIntelligence7)
+# [Business Intelligence Season 7](https://github.com/trannhatnguyen2/BusinessIntelligence7)
 
 <p align="center">
 <img src="./images/Poster.jpg" width=100% height=100%>
@@ -23,7 +23,9 @@ Trong thời đại kỷ nguyên số hóa và công nghệ lên ngôi, mỗi ho
 
 ## ☕ [Vòng 1 - SPROUTING](https://github.com/trannhatnguyen2/BusinessIntelligence7/tree/main/Round_1)
 
-<b>Tình huống:</b> Bạn được mời về đảm nhận vị trí chuyên viên phân tích dữ liệu cho Meki Group - một chuỗi kinh doanh cà phê có trụ sở tại Mỹ và nhiều chi nhánh trên thế giới. Bạn sẽ được công ty cung cấp các bộ dữ liệu thô dưới dạng .csv về lịch sử bán hàng và các thông tin khác như cửa hàng, thông tin khách hàng, nhân viên và sản phẩm công ty đang kinh doanh. Nhiệm vụ của bạn là hãy sử dụng các kỹ năng và tư duy phân tích, giúp Meki Group trả lời được các câu hỏi xoay quanh các hoạt động kinh doanh của công ty cũng như đưa ra các đề xuất hợp lý để Meki Group có những quyết định kịp thời và chính xác.
+<b>Tình huống:</b> Bạn được mời về đảm nhận vị trí chuyên viên phân tích dữ liệu cho Meki Group - một chuỗi kinh doanh cà phê có trụ sở tại Mỹ và nhiều chi nhánh trên thế giới. Bạn sẽ được công ty cung cấp các bộ dữ liệu thô dưới dạng .csv về lịch sử bán hàng và các thông tin khác như cửa hàng, thông tin khách hàng, nhân viên và sản phẩm công ty đang kinh doanh.
+
+Nhiệm vụ của bạn là hãy sử dụng các kỹ năng và tư duy phân tích, giúp Meki Group trả lời được các câu hỏi xoay quanh các hoạt động kinh doanh của công ty cũng như đưa ra các đề xuất hợp lý để Meki Group có những quyết định kịp thời và chính xác.
 
 ## 🛍️ [Vòng 2 - BUDDING](https://github.com/trannhatnguyen2/BusinessIntelligence7/tree/main/Round_2)
 
@@ -41,7 +43,7 @@ Bạn là chuyên viên phân tích dữ liệu thuộc bộ phận công nghệ
 
 ## 🚀 Kết quả
 
-Top <b>12</b> cuộc thi Business Intelligence 7
+Top <b>12</b> Cuộc thi Business Intelligence Season 7
 
 ---
 
