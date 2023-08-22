@@ -1,19 +1,5 @@
 # [Vòng 2 - BUDDING](https://github.com/trannhatnguyen2/BusinessIntelligence7/tree/main/Round_2)
 
-# 📕 Dashboards
-
-<!--ts-->
-
-- 💵 [Phân Tích Doanh Thu](#️-phân-tích-doanh-thu)
-- 💲 [Phân Tích Bán Hàng](#-data-source)
-- 👦 [Phân Tích Khách Hàng](#-solution)
-- 📦 [Phân Tích Đơn Hàng](#-building-data-lake)
-- 🏬 [Phân Tích Cửa Hàng](#-building-data-warehouse)
-- 🍜 [Phân Tích Sản Phẩm](#️-phân-tích-sản-phẩm)
-<!--te-->
-
- <br />
-
 # 💵 Phân Tích Doanh Thu
 
 <p align="center">
