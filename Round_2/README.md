@@ -4,12 +4,12 @@
 
 <!--ts-->
 
-- 💵 [Phân Tích Doanh Thu](#️-phan-tich-doanh-thu)
+- 💵 [Phân Tích Doanh Thu](#️-phân-tích-doanh-thu)
 - 💲 [Phân Tích Bán Hàng](#-data-source)
 - 👦 [Phân Tích Khách Hàng](#-solution)
 - 📦 [Phân Tích Đơn Hàng](#-building-data-lake)
 - 🏬 [Phân Tích Cửa Hàng](#-building-data-warehouse)
-- 🍜 [Phân Tích Sản Phẩm](#️-result)
+- 🍜 [Phân Tích Sản Phẩm](#️-phân-tích-sản-phẩm)
 <!--te-->
 
  <br />
