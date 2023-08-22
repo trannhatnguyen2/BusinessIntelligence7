@@ -49,7 +49,7 @@
 # 📦 Phân Tích Khách Hàng
 
 <p align="center">
-<img src="./images/Cau4_BoPhanLogistic.png" width=80% height=80%>
+<img src="./images/Cau3_TruongBoPhanChamSocKH.png" width=80% height=80%>
 
 <p align="center">
     Dashboard Phân Tích Khách Hàng
@@ -66,7 +66,7 @@
 # 👦 Phân Tích Đơn Hàng
 
 <p align="center">
-<img src="./images/Cau3_TruongBoPhanChamSocKH.png" width=80% height=80%>
+<img src="./images/Cau4_BoPhanLogistic.png" width=80% height=80%>
 
 <p align="center">
     Dashboard Phân Tích Đơn Hàng
